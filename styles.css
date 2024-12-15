@@ -1,0 +1,12 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header.jumbotron {
+    background-color: #343a40;
+    color: white;
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
